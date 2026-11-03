@@ -59,7 +59,8 @@ W widokach poniżej 768px na dole ekranu automatycznie aktywuje się ergonomiczn
 - **Przycisk SPRINT ⚡** (po prawej stronie): Przytrzymanie aktywuje bieg sprinterski.
 - **Interaktywny HUD**: Dotknięcie ikony głośnika wycisza lub włącza syntezator audio.
 
----
+## 4. odpalanie gierki 
+- pobieramy i rozpakowujemy całe repo i otwieramy plik index.html przeglądarka
 
 ## 🦁 O Uczelni
 
