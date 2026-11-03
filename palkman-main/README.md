@@ -59,9 +59,6 @@ W widokach poniżej 768px na dole ekranu automatycznie aktywuje się ergonomiczn
 - **Przycisk SPRINT ⚡** (po prawej stronie): Przytrzymanie aktywuje bieg sprinterski.
 - **Interaktywny HUD**: Dotknięcie ikony głośnika wycisza lub włącza syntezator audio.
 
-## 4. odpalanie gierki 
-- pobieramy i rozpakowujemy całe repo i otwieramy plik index.html przeglądarka
-
 ## 🦁 O Uczelni
 
 **Akademia Leona Koźmińskiego (ALK)** to wiodąca uczelnia biznesowa w Europie Środkowo-Wschodniej, posiadająca prestiżową potrójną koronę akredytacyjną (EQUIS, AMBA, AACSB). Gra powstała jako hołd dla studenckiej społeczności i unikalnego klimatu kampusu przy ul. Jagiellońskiej w Warszawie.
